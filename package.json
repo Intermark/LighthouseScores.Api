@@ -1,0 +1,15 @@
+{
+    "name": "lighthouse",
+    "description": "ighthouse API",
+    "version": "1.0.0",
+    "author": "IMPACT EXTEND",
+    "license": "MIT",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "express": "^4.17.3",
+        "lighthouse": "^9.5.0"
+    }
+}
